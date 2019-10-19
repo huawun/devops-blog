@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 language: go
 go:
   - 1.11.x
@@ -14,6 +13,3 @@ deploy:
   local_dir: public
   on:
     branch: master
-=======
-
->>>>>>> eedae89abd9074acdd4fc0f7f3752ec7031640f9
